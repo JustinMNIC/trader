@@ -10,8 +10,6 @@ import re
 import sys 
 import talib
 
-api_key = 'lZqRc4ZZcnLYtcfj6SVEi1cKxEiXUvmRqipSYsheCgdDbgEIzcHI9e76rllJI3jV'
-api_secret = 'RsxoeEaIz2hUysuH0LerTU6JNMW3vw8sGBnIsYWewx6kndkkdUagksrrMjk4x1Np'
 
 client = Client(api_key, api_secret)
 
